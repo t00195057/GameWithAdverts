@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\JackOHara\\Documents\\college\\games\\UnityAdmobAdsScript-master\\MobileGameWithAds\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-tl\\values-tl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JackOHara\\.gradle\\caches\\transforms-2\\files-2.1\\87dbc74edd34ce04c969692eebf8ed1e\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JackOHara\\.gradle\\caches\\transforms-2\\files-2.1\\385c56dadf9c8cba2d7f116ec4c89c00\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "939",
+                        "endColumns": "100",
+                        "endOffsets": "1035"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JackOHara\\.gradle\\caches\\transforms-2\\files-2.1\\648a0b596d4064a3366e4bcc328ff38f\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,274,396,463,530,617,728",
+                        "endColumns": "74,121,66,66,86,110,71",
+                        "endOffsets": "273,395,462,529,616,727,799"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "310,389,515,586,657,748,863",
+                        "endColumns": "78,125,70,70,90,114,75",
+                        "endOffsets": "384,510,581,652,743,858,934"
+                    }
+                }
+            ]
+        }
+    ]
+}
