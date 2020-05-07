@@ -1,4 +1,0 @@
-#Mon May 04 02:59:37 BST 2020
-base.0=C\:\\Users\\JackOHara\\Documents\\college\\games\\UnityAdmobAdsScript-master\\MobileGameWithAds\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex

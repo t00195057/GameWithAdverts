@@ -122,7 +122,7 @@ public class AdsManager : MonoBehaviour {
 	private void RequestBanner()
 	{
 		
-		bannerView = new BannerView("ca-app-pub-3940256099942544/6300978111", AdSize.Banner, AdPosition.TopRight);
+		bannerView = new BannerView("ca-app-pub-3940256099942544/6300978111", AdSize.Banner, AdPosition.Bottom);
 		
 
 		AdRequest request = new AdRequest.Builder().Build();
